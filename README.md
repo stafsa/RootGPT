@@ -53,7 +53,8 @@ In Windows:
 RootGPT.py
 ```
 ### 5. Use It!
-You can use it now!Enjoy using it! (There's nothing to enjoy but...Just use it if you want...)
+You can use it now!Enjoy using it!
+|Developer Note|:There's nothing to enjoy but...Just use it if you want...
 
 ## License
 ©2019-2024 Nightwork Studios (All rights are hidden)
