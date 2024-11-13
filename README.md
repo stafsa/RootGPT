@@ -39,9 +39,9 @@ python.exe -m pip install google-generative-ai python-dotenv PyQt5
 ```
 If you got the error "The command pip doesn't exist" then go and watch this video:
 
-For Linux:
-It normally don't give an error in Linux, but you can just google it.
-For Windows:
+For Linux:                                                                                                                                                                         
+It normally don't give an error in Linux, but you can just google it.                                                                                                              
+For Windows:                                                                                                                                                                       
 https://www.youtube.com/watch?v=fJKdIf11GcI&ab_channel=TheCodeCity
 ### 4. Run RootGPT.py
 In Linux & MacOS:
