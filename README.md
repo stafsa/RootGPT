@@ -57,4 +57,8 @@ You can use it now!Enjoy using it!
 |Developer Note|:There's nothing to enjoy but...Just use it if you want...
 
 ## License
+This project, RootGPT, is an open-source initiative developed by Nightwork Studios. RootGPT is licensed under the following terms and conditions. By using, modifying, or distributing this software, you agree to the following:
+## Copyright Notice
 ©2019-2024 Nightwork Studios (All rights are reserved)
+## Gemini API Usage
+Users are welcomed to replace the default Gemini API key with their own. Please be aware that usage of the Gemini API is subject to its own terms of service, independent of this project. Nightwork Studios doesn't hold responsibility for actions taken with custom API keys.
