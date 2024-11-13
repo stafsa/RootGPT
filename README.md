@@ -60,5 +60,13 @@ You can use it now!Enjoy using it!
 This project, RootGPT, is an open-source initiative developed by Nightwork Studios. RootGPT is licensed under the following terms and conditions. By using, modifying, or distributing this software, you agree to the following:
 ### Gemini API Usage
 Users are welcomed to replace the default Gemini API key with their own. Please be aware that usage of the Gemini API is subject to its own terms of service, independent of this project. Nightwork Studios doesn't hold responsibility for actions taken with custom API keys.
+### Credits
+You're free to publish RootGPT as part of your own projects or repositories. However, if you do not intend to make any changes and plan to publish it as-is, please acknowledge Nightwork Studios as the original creator. Giving proper credit shows respect for the original work and helps support open-source contributions.
+### Attribution Requirements
+If you are distributing RootGPT with minimal or no modifications, please ensure the following:
+
+    Project Name: Retain the RootGPT name in the project title or clearly state that it is "Based on RootGPT by Nightwork Studios."
+    Author Credit: Add “Developed by Nightwork Studios” in your README or documentation.
+    Links: When possible, link to the original repository or Nightwork Studios as a source reference.
 ### Copyright Notice
 ©2019-2024 Nightwork Studios (All rights are reserved)
